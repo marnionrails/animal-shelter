@@ -4,4 +4,18 @@
 
 .column p {
   float: right;
+  width: 67%;
+}
+
+h3 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 48px;
+}
+
+body {
+  background-color: wheat;
 }
